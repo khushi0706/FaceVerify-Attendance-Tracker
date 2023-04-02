@@ -21,7 +21,7 @@ Attendance Tracker is a Python-based program that uses facial recognition to tak
 <ol>
 <li>Add students' details manually or upload the dataset containing images via 'Add Student' button.</li>
 <li>Click on 'Start Marking Attendance' button to initiate the camera and begin marking attendance.</li>
-  <li>To view attendance reports, click on 'View Attendance' button.</li>
+  <li>To view attendance reports, click on the csv file created</li>
   </ol>
   
 ## Dependencies
